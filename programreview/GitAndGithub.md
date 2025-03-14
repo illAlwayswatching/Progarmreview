@@ -24,3 +24,13 @@ git reset -- hard 要退回的版本          #退回后之后的版本消失
 
 #建立.gitignore 以保证无关文件不上传
 好了接下来就是github
+
+#本次建立repository需输入代码——记得关vpn。。。
+git remote add origin https://github.com/illAlwayswatching/Progarmreview.git
+git branch -M main
+git push -u origin main
+
+git push
+got pull
+git clone xxx网址
+git checkout -b branch 建立分支
